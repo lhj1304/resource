@@ -1,0 +1,2 @@
+# resource
+put my resource
